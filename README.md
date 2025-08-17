@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on Spring Boot 
 - 🌱 I’m currently learning React and AWS
 - 👯 I’m looking to collaborate on SPring Boot or Quarkus
 - 🤔 I’m looking for help with any dev related roles or issues
 - ⚡ Fun fact: I like pizza but I avoid it as well
--->
 
 
 ## 🌐 Socials:
